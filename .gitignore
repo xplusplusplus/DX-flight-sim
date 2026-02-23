@@ -2,3 +2,7 @@
 **/Fonts/
 **/Meshes/
 **/Textures/
+**/Debug/
+.vs/
+ipch/
+*.VC.db
